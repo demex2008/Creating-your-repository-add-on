@@ -2,13 +2,13 @@
 <addon id="repository.XBOX.matrix" name="XBOX.MATRIX" version="1.4" provider-name="demex2008">
     <extension point="xbmc.addon.repository" name="XBOX.MATRIX Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/demex2008/XBOX.MATRIX Repository/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/demex2008/XBOX.MATRIX Repository/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/demex2008/XBOX.MATRIX Repository/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
+        <summary>XBOX.MATRIX Repository</summary>
         <description>DESCRIPTION OF YOUR REPO HERE</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
